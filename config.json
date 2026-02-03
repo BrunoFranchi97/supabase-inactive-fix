@@ -1,0 +1,8 @@
+[
+  {
+    "name": "TennisClubDatabase",
+    "supabase_url": "https://nrnyfuqyeqcegnpoetrd.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "profiles"
+  }
+]
